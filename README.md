@@ -1,2 +1,2 @@
 # devops1
-taking training
+taking devops training
